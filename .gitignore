@@ -1,0 +1,5 @@
+node_modules/
+tests/.built/
+.DS_Store
+verification.log
+.publishing-tmp/

@@ -1,0 +1,22 @@
+{
+  "name": "reflow \u00b7 pretext",
+  "id": "dynamic-reflow-pretext-dev",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "relaunchButtons": [
+    {
+      "command": "open",
+      "name": "open reflow"
+    }
+  ]
+}
