@@ -11,9 +11,9 @@ Built on [Pretext](https://github.com/chenglou/pretext) by **Cheng Lou and the P
 1. In **Figma desktop**, open a Design file.
 2. Choose **Plugins → Development → Import plugin from manifest…**.
 3. Select the `manifest.json` in the downloaded or cloned repository.
-4. Run **Plugins → Development → reflow · pretext**.
+4. Run **Plugins → Development → reflow · built on pretext**.
 
-The built `dist/code.js` and `dist/ui.html` are included. You do **not** need Node or npm to use the built plugin. Keep the manifest and `dist` folder together. This is the development installation route. Community submission is tracked in [publishing](publishing/README.md). If your Figma installation requires an assigned plugin ID, create a new local plugin through **Plugins → Development → New plugin…**, copy its generated ID into this manifest’s `id` field, and import this manifest again. The supplied ID is a local development identifier, not a published Figma ID.
+The built `dist/code.js` and `dist/ui.html` are included. You do **not** need Node or npm to use the built plugin. Keep the manifest and `dist` folder together. This is the development installation route. Community submission is tracked in [publishing](publishing/README.md). The manifest includes the Figma-assigned plugin ID. An ID alone does not mean the plugin has passed Community review.
 
 ## Use the panel
 

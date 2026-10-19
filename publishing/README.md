@@ -6,7 +6,7 @@
 
 **Tagline:** Editable text that flows around your shapes.
 
-**Category:** Design tools
+**Category:** Design tools → Format & resize
 
 **Description:**
 
@@ -44,6 +44,6 @@ Pretext is MIT licensed. Its complete license and third-party notices are includ
 
 ## Submission state
 
-Not yet submitted. A real Figma-assigned plugin ID must replace the local development ID before submission. Submit free to Community as the owner's profile, with GitHub Issues as the support URL. The public source license is MIT; upstream notices remain included.
+Not yet submitted. Figma-assigned plugin ID: `1693872760886840748`. The listing text, icon, cover, creator handle `azuic`, public Community destination and GitHub Issues support URL are prepared in Figma desktop. The publish dialog currently blocks submission with: **“You must enable two-factor authentication to publish.”** The account owner must enable 2FA in Figma settings before submission can proceed. Submit free to Community as the owner's profile. The public source license is MIT; upstream notices remain included.
 
 Figma's review status is separate from source publication. Only an **In review** or **Published** result from Figma confirms a completed submission.

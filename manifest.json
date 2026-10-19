@@ -1,6 +1,6 @@
 {
-  "name": "reflow \u00b7 pretext",
-  "id": "dynamic-reflow-pretext-dev",
+  "name": "reflow \u00b7 built on pretext",
+  "id": "1693872760886840748",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
